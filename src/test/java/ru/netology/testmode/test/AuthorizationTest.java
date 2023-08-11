@@ -16,7 +16,7 @@ class AuthorizationTest {
 
     @BeforeEach
     void setup() {
-        open("http://localhost:7777");
+        open("http://localhost:9999");
     }
 
     @Test
